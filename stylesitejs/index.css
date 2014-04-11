@@ -1,0 +1,48 @@
+body {
+    overflow:hidden;
+}
+h1 {
+    color:white;
+    font-family:"Verdana";
+    font-size:70px;
+}
+table {
+    text-align:center;
+    width:100%;
+}
+td {
+    text-align:center;
+}
+div {
+    background-color:maroon;
+    color:beige;
+    font-family:Verdana;
+    text-align:center;
+    padding-top:0px;
+    padding-bottom:0px;
+    border-radius:8px;
+    margin:2.5%;
+    width:95%;
+    height:95%;
+    text-align:center;
+}
+a {
+    text-decoration:none;
+}
+.crop {
+    width:70%;
+    height:30%;
+    overflow:hidden;
+    text-align:center;
+    margin-left:15%;
+    margin-right:15%;
+}
+.crop img {
+    width:100%;
+    height:auto;
+    margin:0 0 -50% 0%;
+    text-align:center;
+}
+.orange {
+    color:orange;
+}
